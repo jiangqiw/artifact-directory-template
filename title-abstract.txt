@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Balancing Accuracy and Efficiency: A Comparative Study of Knowledge Distillation and Post-Training Quantization Sequences
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
